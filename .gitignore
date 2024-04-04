@@ -1,0 +1,6 @@
+dbinfo.php
+*.obj
+!config.php
+/readme.txt
+/git/
+git/**/*/txt
